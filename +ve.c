@@ -5,7 +5,7 @@ Write a program that take number from user and display sum of Numbers Until user
 #include <stdio.h>
 
 int main() {
-    float number, total_sum = 0;
+    float number, total_sum = 0;   //sahil
 
     while (1) {
         printf("Enter a number: ");
