@@ -13,7 +13,6 @@ scanf("%d",&num);
 if (num>0)
 {
     printf("It's is positiv number ");
-
 }else if (num==0)
 {
     printf("It's is equal to 0");
