@@ -35,8 +35,7 @@ float incentive;
 
 if (sale>100000)
 {
-     incentive = sale*10/100;
-    
+     incentive = sale*10/100;  
 }else{
      incentive = sale*5/100;
 }
