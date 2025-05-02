@@ -14,5 +14,4 @@ for (int i = 1; i <=50; i++)
        printf("%d",sum);
     }
 return 0;
-
 }
