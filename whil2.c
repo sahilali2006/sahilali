@@ -7,6 +7,7 @@ void main(){
 
 int num,i=1;
 
+    
 printf("Enter number = ");
 scanf("%d",&num);
 
