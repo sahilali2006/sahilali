@@ -10,7 +10,6 @@ void main(){
 int num1,num2;
 char ch;
 
-
 printf("Enter first number =");
 scanf("%d",&num1);
 
