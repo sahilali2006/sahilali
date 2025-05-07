@@ -20,6 +20,7 @@ fflush(stdin);
 printf("Enter operator = ");
 scanf("%c",&ch);
 
+ 
 float output;
 
 if (ch == '+')
