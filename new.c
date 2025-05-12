@@ -1,7 +1,5 @@
 
 // factorial 
-
-
 #include<stdio.h>
 void main(){
 
