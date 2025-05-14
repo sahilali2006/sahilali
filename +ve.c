@@ -17,7 +17,6 @@ int main() {
 
         total_sum += number;
     }
-
     printf("The sum of the numbers is: %f\n", total_sum);
 
     return 0;
