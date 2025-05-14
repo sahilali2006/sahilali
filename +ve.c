@@ -6,7 +6,6 @@ Write a program that take number from user and display sum of Numbers Until user
 
 int main() {
     float number, total_sum = 0;   //sahil
-
     while (1) {
         printf("Enter a number: ");
         scanf("%f", &number);
