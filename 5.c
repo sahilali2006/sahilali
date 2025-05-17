@@ -2,7 +2,6 @@
  Take 2 number from keyboard and display which one is greater
 */ 
 
-
 #include<stdio.h>
 int main (){
 
