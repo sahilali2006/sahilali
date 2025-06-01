@@ -10,7 +10,7 @@ Conveyance  = 500
 Incentive   = 10% of sales
 Bonus       = 500
 
-Table 2:
+Table 2: 
 Basic       = 3000
 Hra         = 20% of Basic
 Da          = 110% of Basic
