@@ -1,4 +1,4 @@
-/*
+ /*
  Write a program to calculate the salary of a sales person based on the bonus and incentive to be offered him based on the sale they made.
 If the sale exceeds Rs. 100000/- then follow table 1 else follow table 2.
 
@@ -39,7 +39,6 @@ if (sale>100000)
 }else{
      incentive = sale*5/100;
 }
-
  int total_sale = basic_salary+hra+da+coveyance+bonus+ incentive;
 
 printf("%d",total_sale);
