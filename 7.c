@@ -1,4 +1,4 @@
- /*
+/*
  Write a program to calculate the salary of a sales person based on the bonus and incentive to be offered him based on the sale they made.
 If the sale exceeds Rs. 100000/- then follow table 1 else follow table 2.
 
@@ -18,6 +18,7 @@ Conveyance  = 500
 Incentive   = 5% of sales
 Bonus       = 500
 */
+
 
 #include<stdio.h>
 int main(){
