@@ -5,7 +5,7 @@ write a program that take a student marks as input and show if he passed the exa
 
 #include<stdio.h>
 int main(){
-
+ 
 int mark;
 
 printf("Enter marks = ");
