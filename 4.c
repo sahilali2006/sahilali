@@ -18,7 +18,7 @@ if (ch=='a')
     printf("vovel");
 }else if (ch=='i')
 {
-    printf("vowel");
+    printf("vowel"); 
 }else if (ch=='o')
 {
     printf("vowel");
