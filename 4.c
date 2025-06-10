@@ -10,7 +10,7 @@ char ch;
 printf("Enter alphabet = ");
 scanf("%c",&ch);
 
-if (ch=='a')
+if (ch=='a') 
 {
     printf("vovel");
 } else if (ch=='e')
