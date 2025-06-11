@@ -8,7 +8,7 @@ int main(){
 char ch;
 
 printf("Enter alphabet = ");
-scanf("%c",&ch);
+scanf("%c",&ch); 
 
 if (ch=='a') 
 {
