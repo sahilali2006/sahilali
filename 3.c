@@ -11,7 +11,7 @@ int mark;
 printf("Enter marks = ");
 scanf("%d",&mark);
 
-if (mark>33)
+if (mark>33) 
 {
     printf("pass");
 }else
