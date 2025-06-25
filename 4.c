@@ -7,6 +7,7 @@ int main(){
 
 char ch;
 
+
 printf("Enter alphabet = ");
 scanf("%c",&ch); 
 
