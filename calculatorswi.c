@@ -2,7 +2,7 @@
 Read two numbers and an operator, calculate result according to operator and display result. 
 
    ( its like a calculator program)
-*/
+*/ 
 
 #include<stdio.h>
 void main(){
