@@ -1,6 +1,6 @@
 /*
 Write a program to check if it's a alphabet is vowel or not
-*/
+*/ 
 
 #include<stdio.h>
 int main(){
