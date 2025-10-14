@@ -7,7 +7,7 @@
 #include<stdio.h>
 void main(){
 
-int num1,num2;
+int num1,num2; 
 char ch;
 
 printf("Enter first number =");
@@ -43,3 +43,4 @@ else
 printf("%f ",output);
 
 }
+
