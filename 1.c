@@ -17,3 +17,4 @@ age>18 ? printf("you can vote ") : printf("you can't vote ");
 }
 
 
+
