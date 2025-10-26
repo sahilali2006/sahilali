@@ -5,7 +5,8 @@ Write a program to check if it's a alphabet is vowel or not
 #include<stdio.h>
 int main(){
 
-char ch; 
+char ch; 
+
 printf("Enter alphabet = ");
 scanf("%c",&ch); 
 
