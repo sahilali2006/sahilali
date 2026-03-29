@@ -4,7 +4,6 @@ write a program that take a number as input and show if the number is +ve or -ve
 
 #include<stdio.h>
 int main(){
-
 int num;
 printf("Enput a number = ");
 scanf("%d",&num);
