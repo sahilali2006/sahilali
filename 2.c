@@ -8,7 +8,6 @@ int num;
 printf("Enput a number = ");
 scanf("%d",&num);
 
-
 if (num>0)
 {
      printf("It's is positiv number ");
