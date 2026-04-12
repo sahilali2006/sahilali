@@ -31,3 +31,4 @@ if (ch=='a')
     printf("not vowel");
 }
 }
+
