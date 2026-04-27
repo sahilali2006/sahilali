@@ -17,5 +17,4 @@ if (mark>33)
 {
     printf("not pass");
 }
-}
-
+}
