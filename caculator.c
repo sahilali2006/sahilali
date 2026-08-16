@@ -41,6 +41,4 @@ else
   printf("Not a valid opretor");
 }
 printf("%f ",output);
-
 }
-
