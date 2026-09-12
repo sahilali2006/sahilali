@@ -19,7 +19,6 @@ Incentive   = 5% of sales
 Bonus       = 500
 */
 
-
 #include<stdio.h>
 int main(){
     
