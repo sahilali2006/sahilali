@@ -1,5 +1,5 @@
 /*
-write a program that take a number as input and show if the number is +ve or -ve
+write a program that take a number as input and show if the number is +ve or -ve 
 */
 
 #include<stdio.h>
