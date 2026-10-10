@@ -8,3 +8,4 @@ printf("Enter age = ");
 scanf("%d",&age);
 age>18 ? printf("you can vote ") : printf("you can't vote ");
 }
+ 
