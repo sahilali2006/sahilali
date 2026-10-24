@@ -17,7 +17,7 @@ Da          = 110% of Basic
 Conveyance  = 500
 Incentive   = 5% of sales
 Bonus       = 500
-*/
+*/ 
 
 #include<stdio.h>
 int main(){
